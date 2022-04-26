@@ -13,4 +13,5 @@ you need a react or next project
 # npm install --save styled-components
 ```
 
-- add this file into your proyect and try it.
+- add the icon moon.svg and sun.svg in your proyect path "/public/icons/moon.svg" and "/public/icons/sun.svg" instead moon.svg or sun.svg can you use another icons.
+- add the file botonTongle.jsx into your proyect and try it.
